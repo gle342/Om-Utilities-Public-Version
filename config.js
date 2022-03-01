@@ -1,10 +1,10 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "",
+	token: "ODk5ODI0NDgyMDU3ODcxNDAw.YW4Y2g.wNUzsRLNoWzFLPdzbtsgyDuaMqM",
 	/* For the support server */
 	support: {
-		id: "", // The ID of the support server
-		logs: "", // And the ID of the logs channel of your server (new servers for example)
+		id: "940603363198922803", // The ID of the support server
+		logs: "940603368995434508", // And the ID of the logs channel of your server (new servers for example)
 	},
 	/* Dashboard configuration */
 	dashboard: {
@@ -25,8 +25,8 @@ module.exports = {
 	},
 	/* Bot's owner informations */
 	owner: {
-		id: "677970752242450463", // The ID of the bot's owner
-		name: "President Om#2024" // And the name of the bot's owner
+		id: "330254934563880961", // The ID of the bot's owner
+		name: "DogBay#9999" // And the name of the bot's owner
 	},
 	/* DBL votes webhook (optional) */
 	votes: {
@@ -45,7 +45,7 @@ module.exports = {
 		// DBL: https://discordbots.org/api/docs#mybots
 		dbl: "",
 		// AMETHYSTE: https://api.amethyste.moe
-		amethyste: "",
+		amethyste: "7a7e9f7e340da9c0322c15061dd7450491e1cfe06eee376c8ebfc1903ec34cd1ab041c863cbcaeaf6f347913c48c29903a1f7925a017e565ad83bda988a2aa2e",
 	
 	},
 	/* The others utils links */
