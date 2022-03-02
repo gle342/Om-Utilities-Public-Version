@@ -1,6 +1,6 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "ODk5ODI0NDgyMDU3ODcxNDAw.YW4Y2g.wNUzsRLNoWzFLPdzbtsgyDuaMqM",
+	token: "ODk5ODI0NDgyMDU3ODcxNDAw.YW4Y2g.GeUfT_13Qe67jlJ4DAtct23lbdY",
 	/* For the support server */
 	support: {
 		id: "940603363198922803", // The ID of the support server
@@ -8,20 +8,20 @@ module.exports = {
 	},
 	/* Dashboard configuration */
 	dashboard: {
-		enabled: true, // whether the dashboard is enabled or not
-		secret: "", // Your discord client secret
-		baseURL: "http://localhost:8080", // The base URl of the dashboard
-		logs: "", // The channel ID of logs
-		port: "8080", // Dashboard port
+		enabled: false, // whether the dashboard is enabled or not
+		secret: "G9yxtTXsTEYRW5eUeB3Jy2QzA5BjcL2T", // Your discord client secret
+		baseURL: "http://localhost:80", // The base URl of the dashboard
+		logs: "934190395783528539", // The channel ID of logs
+		port: "80", // Dashboard port
 		expressSessionPassword: "", // Express session password (it can be what you want)
 		failureURL: "http:omtecheducation.tk" // url on which users will be redirected if they click the cancel button (discord authentication)
 	},
-	mongoDB: "", // The URl of the mongodb database
-	prefix: ">", // The default prefix for the bot
+	mongoDB: "mongodb+srv://hello:12345@cluster0.uxyo4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", // The URl of the mongodb database
+	prefix: ",", // The default prefix for the bot
 	/* For the embeds (embeded messages) */
 	embed: {
 		color: "#FF0000", // The default color for the embeds
-		footer: "Om Utilities | Made With 💖" // And the default footer for the embeds
+		footer: "Om Utilities | Made With 💖 scoutante" // And the default footer for the embeds
 	},
 	/* Bot's owner informations */
 	owner: {
@@ -50,17 +50,17 @@ module.exports = {
 	},
 	/* The others utils links */
 	others: {
-		github: "https://github.com/Omcodez1503", // Founder's github account
-		donate: "https://dsc.gg/omtecheducationgaming" // Donate link
+		github: "https://github.com/scoutante112", // Founder's github account
+		donate: "" // Donate link
 	},
 	/* The Bot status */
 	status: [
 		{
-			name: "Om Utilities on {serversCount} servers",
+			name: "chicken",
 			type: "LISTENING"
 		},
 		{
-			name: "Om Tech Education Gaming : https://dsc.gg/omtecheducationgaming",
+			name: "chicken hohoho",
 			type: "PLAYING"
 		
 		}
