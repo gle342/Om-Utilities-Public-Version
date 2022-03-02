@@ -1,6 +1,7 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "ODk5ODI0NDgyMDU3ODcxNDAw.YW4Y2g.GeUfT_13Qe67jlJ4DAtct23lbdY",
+	token: "jkl;jk;kjl
+	",
 	/* For the support server */
 	support: {
 		id: "940603363198922803", // The ID of the support server
